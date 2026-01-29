@@ -1,0 +1,22 @@
+Company: Apple
+Source: wikipedia | URL: https://en.wikipedia.org/wiki/Apple_Inc.
+
+Extracted Metrics
+- Founded year: 1976
+- Employees: 166000
+- HQ: Apple Park, Cupertino, California , US
+- Industry: Consumer electronics Software services Online services
+- Revenue: US$416 billion (2025)
+- Profile confidence: 0.95
+
+Scoring Breakdown (1–5)
+- Age/Longevity (10%): 5
+- Employees Strength (10%): 5
+- Financial Stability (10%): 5
+- Founders Profile (5%): 0
+- Domain Relevance (25%): 3
+- Project Quality & Fit (20%): 3
+- Geographic Advantage (20%): 5
+
+Weighted score (0–100): 77.0
+Label: Moderate

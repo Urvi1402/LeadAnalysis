@@ -1,0 +1,22 @@
+Company: Amazon
+Source: wikipedia | URL: https://en.wikipedia.org/wiki/Amazon_(company)
+
+Extracted Metrics
+- Founded year: 1994
+- Employees: 1556000
+- HQ: Seattle , Washington, and Arlington , Virginia , U.S.
+- Industry: Conglomerate
+- Revenue: US$637.9 billion (2024)
+- Profile confidence: 0.95
+
+Scoring Breakdown (1–5)
+- Age/Longevity (10%): 5
+- Employees Strength (10%): 5
+- Financial Stability (10%): 5
+- Founders Profile (5%): 0
+- Domain Relevance (25%): 3
+- Project Quality & Fit (20%): 4
+- Geographic Advantage (20%): 5
+
+Weighted score (0–100): 81.0
+Label: Strong

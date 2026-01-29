@@ -1,0 +1,22 @@
+Company: Luma
+Source: wikipedia | URL: https://en.wikipedia.org/wiki/Luma_Arcade
+
+Extracted Metrics
+- Founded year: 2006
+- Employees: None
+- HQ: Johannesburg , South Africa
+- Industry: Video games
+- Revenue: None
+- Profile confidence: 0.71
+
+Scoring Breakdown (1–5)
+- Age/Longevity (10%): 4
+- Employees Strength (10%): 0
+- Financial Stability (10%): 0
+- Founders Profile (5%): 0
+- Domain Relevance (25%): 1
+- Project Quality & Fit (20%): 3
+- Geographic Advantage (20%): 3
+
+Weighted score (0–100): 37.0
+Label: Disqualified

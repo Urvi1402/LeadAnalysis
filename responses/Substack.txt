@@ -1,0 +1,22 @@
+Company: Substack
+Source: wikipedia | URL: https://en.wikipedia.org/wiki/Substack
+
+Extracted Metrics
+- Founded year: None
+- Employees: 94
+- HQ: San Francisco , California, U.S.
+- Industry: None
+- Revenue: US$ 9 million (2021) [ 1 ]
+- Profile confidence: 0.71
+
+Scoring Breakdown (1–5)
+- Age/Longevity (10%): 0
+- Employees Strength (10%): 1
+- Financial Stability (10%): 1
+- Founders Profile (5%): 0
+- Domain Relevance (25%): 2
+- Project Quality & Fit (20%): 3
+- Geographic Advantage (20%): 5
+
+Weighted score (0–100): 46.0
+Label: Weak

@@ -1,0 +1,23 @@
+Company: Serper
+Source: wikipedia | URL: https://en.wikipedia.org/wiki/Gregory_Serper
+
+Extracted Metrics
+- Founded year: None
+- Employees: None
+- HQ: None
+- Industry: None
+- Revenue: None
+- Profile confidence: 0.35
+
+Scoring Breakdown (1–5)
+- Age/Longevity (10%): 0
+- Employees Strength (10%): 0
+- Financial Stability (10%): 0
+- Founders Profile (5%): 0
+- Domain Relevance (25%): 1
+- Project Quality & Fit (20%): 3
+- Geographic Advantage (20%): 0
+
+Weighted score (0–100): 17.0
+Label: Disqualified
+Note: LOW CONFIDENCE (missing/weak source signals)

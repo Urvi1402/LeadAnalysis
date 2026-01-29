@@ -1,0 +1,22 @@
+Company: Slack
+Source: wikipedia | URL: https://en.wikipedia.org/wiki/Slack_Technologies
+
+Extracted Metrics
+- Founded year: 2009
+- Employees: 2545
+- HQ: Salesforce Tower San Francisco, California , U.S.
+- Industry: Internet (formerly video games ) [ 1 ]
+- Revenue: US$ 903 million (2020) [ 5 ]
+- Profile confidence: 0.95
+
+Scoring Breakdown (1–5)
+- Age/Longevity (10%): 4
+- Employees Strength (10%): 3
+- Financial Stability (10%): 2
+- Founders Profile (5%): 0
+- Domain Relevance (25%): 3
+- Project Quality & Fit (20%): 4
+- Geographic Advantage (20%): 5
+
+Weighted score (0–100): 69.0
+Label: Moderate
