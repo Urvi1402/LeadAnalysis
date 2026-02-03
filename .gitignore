@@ -31,4 +31,3 @@ token.json
 # Local DB
 data/app.db
 *.db
-lead_qualifier/infra/searxng/
