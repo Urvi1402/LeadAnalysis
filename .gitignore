@@ -23,3 +23,12 @@ node_modules/
 
 # Secrets
 .env
+
+# Secrets / auth
+credentials.json
+token.json
+
+# Local DB
+data/app.db
+*.db
+lead_qualifier/infra/searxng/
