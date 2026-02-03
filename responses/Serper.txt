@@ -1,5 +1,6 @@
 Company: Serper
 Source: wikipedia | URL: https://en.wikipedia.org/wiki/Gregory_Serper
+Scoring method: llm
 
 Extracted Metrics
 - Founded year: None
@@ -10,14 +11,39 @@ Extracted Metrics
 - Profile confidence: 0.35
 
 Scoring Breakdown (1–5)
-- Age/Longevity (10%): 0
-- Employees Strength (10%): 0
-- Financial Stability (10%): 0
-- Founders Profile (5%): 0
+- Age/Longevity (10%): 2
+- Employees Strength (10%): 2
+- Financial Stability (10%): 2
+- Founders Profile (5%): 2
 - Domain Relevance (25%): 1
-- Project Quality & Fit (20%): 3
-- Geographic Advantage (20%): 0
+- Project Quality & Fit (20%): 2
+- Geographic Advantage (20%): 2
 
-Weighted score (0–100): 17.0
-Label: Disqualified
-Note: LOW CONFIDENCE (missing/weak source signals)
+Weighted score (0–100): 40
+Label: Weak
+LLM confidence: 0.3
+
+Missing / weak data
+- age
+- employees
+- financial
+- founders
+- founded_year
+- hq_location
+- industry
+- revenue
+- rating
+
+Rationale
+- Insufficient data for most dimensions
+- Domain mismatch: company is a chess grandmaster, not related to preferred domains
+- No clear indication of company size or financials
+- No project information available
+- Geographic location unknown
+
+Recommended next steps
+- Gather more information on the company profile
+- Verify domain relevance
+- Research company size and financials
+- Look for project descriptions or case studies
+- Determine geographic location

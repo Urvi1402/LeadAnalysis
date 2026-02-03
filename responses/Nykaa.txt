@@ -1,0 +1,45 @@
+Company: Nykaa
+Source: wikipedia | URL: https://en.wikipedia.org/wiki/Nykaa
+Scoring method: llm
+
+Extracted Metrics
+- Founded year: 2012
+- Employees: 2000
+- HQ: Mumbai , Maharashtra , India
+- Industry: Consumer goods
+- Revenue: ₹ 7,950 crore (US$940 million) (2025)
+- Profile confidence: 0.95
+
+Scoring Breakdown (1–5)
+- Age/Longevity (10%): 4
+- Employees Strength (10%): 5
+- Financial Stability (10%): 5
+- Founders Profile (5%): 2
+- Domain Relevance (25%): 2
+- Project Quality & Fit (20%): 2
+- Geographic Advantage (20%): 4
+
+Weighted score (0–100): 64
+Label: Medium
+LLM confidence: 0.7
+
+Missing / weak data
+- founders
+- project
+- domain
+
+Rationale
+- Nykaa has a strong employee base of 2000+
+- The company has a significant revenue of ₹ 7,950 crore (US$940 million)
+- Nykaa is headquartered in Mumbai, India
+- The company has been in operation since 2012
+- However, there is limited information on the founders
+- The company's domain expertise is not clearly aligned with the preferred domains
+- There is no information on specific projects undertaken by the company
+
+Recommended next steps
+- Conduct further research on the company's founders and leadership team
+- Evaluate the company's domain expertise and alignment with preferred domains
+- Research the company's project portfolio and success stories
+- Assess the company's financial health and growth prospects
+- Consider reaching out to the company for more information on their projects and domain expertise

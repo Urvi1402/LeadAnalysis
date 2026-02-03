@@ -1,0 +1,44 @@
+Company: Tirabeauty
+Source: wikipedia | URL: https://en.wikipedia.org/wiki/Reliance_Retail
+Scoring method: llm
+
+Extracted Metrics
+- Founded year: 2006
+- Employees: 207552
+- HQ: Mumbai , Maharashtra , India
+- Industry: Retail
+- Revenue: ₹ 330,870 crore (US$39 billion) (2025)
+- Profile confidence: 0.95
+
+Scoring Breakdown (1–5)
+- Age/Longevity (10%): 4
+- Employees Strength (10%): 5
+- Financial Stability (10%): 5
+- Founders Profile (5%): 2
+- Domain Relevance (25%): 1
+- Project Quality & Fit (20%): 2
+- Geographic Advantage (20%): 4
+
+Weighted score (0–100): 52
+Label: Medium
+LLM confidence: 0.7
+
+Missing / weak data
+- founders
+- project
+
+Rationale
+- Company age is 17 years, which is a good sign of stability
+- Large employee base of 207,552 indicates a well-established company
+- High revenue of $39 billion suggests strong financials
+- Domain mismatch: company operates in retail, not in preferred domains
+- No information on founders, which is a concern
+- No project information available
+- Headquartered in India, which may have geo-specific implications
+
+Recommended next steps
+- Verify founder information through additional sources
+- Research company projects and initiatives
+- Assess potential domain overlap or adjacent opportunities
+- Evaluate geo-specific considerations for student placements
+- Review company culture and values alignment with student goals

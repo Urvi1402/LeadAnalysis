@@ -1,0 +1,45 @@
+Company: Parivahan
+Source: wikipedia | URL: https://en.wikipedia.org/wiki/Nagpur_Mahanagar_Parivahan_Limited
+Scoring method: llm
+
+Extracted Metrics
+- Founded year: 2010
+- Employees: None
+- HQ: None
+- Industry: None
+- Revenue: None
+- Profile confidence: 0.47
+
+Scoring Breakdown (1–5)
+- Age/Longevity (10%): 3
+- Employees Strength (10%): 2
+- Financial Stability (10%): 2
+- Founders Profile (5%): 2
+- Domain Relevance (25%): 5
+- Project Quality & Fit (20%): 2
+- Geographic Advantage (20%): 2
+
+Weighted score (0–100): 64
+Label: Medium
+LLM confidence: 0.47
+
+Missing / weak data
+- employees
+- hq_location
+- industry
+- revenue
+- rating
+
+Rationale
+- Company age is 13 years, which is a moderate score
+- Domain preference matches with 'software' and 'iot' which is a strong score
+- Insufficient data for employees, financial, founders, project, and geo dimensions
+- Company description indicates a specific purpose and scope
+- Confidence in the profile is moderate due to missing fields
+
+Recommended next steps
+- Gather more information on employees and financials
+- Research the company's projects and initiatives
+- Verify the company's headquarters location and industry
+- Assess the company's revenue and rating
+- Evaluate the company's founders and their background

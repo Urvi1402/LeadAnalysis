@@ -1,5 +1,6 @@
 Company: Substack
 Source: wikipedia | URL: https://en.wikipedia.org/wiki/Substack
+Scoring method: llm
 
 Extracted Metrics
 - Founded year: None
@@ -10,13 +11,37 @@ Extracted Metrics
 - Profile confidence: 0.71
 
 Scoring Breakdown (1–5)
-- Age/Longevity (10%): 0
-- Employees Strength (10%): 1
-- Financial Stability (10%): 1
-- Founders Profile (5%): 0
-- Domain Relevance (25%): 2
-- Project Quality & Fit (20%): 3
+- Age/Longevity (10%): 2
+- Employees Strength (10%): 4
+- Financial Stability (10%): 4
+- Founders Profile (5%): 2
+- Domain Relevance (25%): 5
+- Project Quality & Fit (20%): 2
 - Geographic Advantage (20%): 5
 
-Weighted score (0–100): 46.0
-Label: Weak
+Weighted score (0–100): 73
+Label: Strong
+LLM confidence: 0.71
+
+Missing / weak data
+- age
+- founders
+- industry
+
+Rationale
+- Substack is a US-based company
+- Headquartered in San Francisco
+- Provides subscription-based content infrastructure
+- Has 94 employees
+- Revenue of US$ 9 million in 2021
+- Founded in 2017 (though age is not explicitly provided)
+- Domain matches preferences (software)
+- HQ location matches geo preferences
+
+Recommended next steps
+- Verify founder information
+- Research industry and competitors
+- Evaluate project portfolio and potential for collaboration
+- Assess financial stability and growth prospects
+- Explore potential synergies with Substack's subscription-based model
+- Schedule a meeting with Substack's team to discuss potential partnership opportunities

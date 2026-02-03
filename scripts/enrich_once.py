@@ -5,7 +5,7 @@ import requests
 
 from lead_qualifier.config import SETTINGS
 from lead_qualifier.storage.db import get_conn, init_db
-from lead_qualifier.enrichment.search.serper_client import serper_search
+from lead_qualifier.enrichment.search.router import web_search
 
 # --- Wikipedia selection helpers (validated) ---
 
@@ -114,7 +114,7 @@ def pick_best_wikipedia(company_name: str) -> str | None:
 
     candidates = []
     for q in queries:
-        candidates.extend(serper_search(q, num=8))
+        candidates.extend(web_search(q, num=8))
 
     for c in candidates:
         u = c.link

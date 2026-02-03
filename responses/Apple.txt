@@ -1,5 +1,6 @@
 Company: Apple
 Source: wikipedia | URL: https://en.wikipedia.org/wiki/Apple_Inc.
+Scoring method: llm
 
 Extracted Metrics
 - Founded year: 1976
@@ -13,10 +14,31 @@ Scoring Breakdown (1–5)
 - Age/Longevity (10%): 5
 - Employees Strength (10%): 5
 - Financial Stability (10%): 5
-- Founders Profile (5%): 0
-- Domain Relevance (25%): 3
-- Project Quality & Fit (20%): 3
+- Founders Profile (5%): 5
+- Domain Relevance (25%): 5
+- Project Quality & Fit (20%): 2
 - Geographic Advantage (20%): 5
 
-Weighted score (0–100): 77.0
-Label: Moderate
+Weighted score (0–100): 92
+Label: Strong
+LLM confidence: 0.9
+
+Missing / weak data
+- project
+
+Rationale
+- Apple is a well-established company with a long history
+- It has a large number of employees, indicating a strong workforce
+- The company's financials are robust, with high revenue
+- The founders are well-known and reputable
+- The company operates in a relevant domain (consumer electronics, software, and online services)
+- Apple is headquartered in a desirable location (Silicon Valley)
+- The company has a high confidence score due to its well-documented profile
+
+Recommended next steps
+- Research Apple's current projects and initiatives
+- Review Apple's job openings and career development opportunities
+- Network with current or former Apple employees
+- Attend Apple-sponsored events or conferences
+- Explore potential collaboration or partnership opportunities with Apple
+- Monitor Apple's news and announcements for updates on their activities

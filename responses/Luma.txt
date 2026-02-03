@@ -1,5 +1,6 @@
 Company: Luma
 Source: wikipedia | URL: https://en.wikipedia.org/wiki/Luma_Arcade
+Scoring method: llm
 
 Extracted Metrics
 - Founded year: 2006
@@ -11,12 +12,33 @@ Extracted Metrics
 
 Scoring Breakdown (1–5)
 - Age/Longevity (10%): 4
-- Employees Strength (10%): 0
-- Financial Stability (10%): 0
-- Founders Profile (5%): 0
-- Domain Relevance (25%): 1
-- Project Quality & Fit (20%): 3
-- Geographic Advantage (20%): 3
+- Employees Strength (10%): 2
+- Financial Stability (10%): 2
+- Founders Profile (5%): 2
+- Domain Relevance (25%): 5
+- Project Quality & Fit (20%): 2
+- Geographic Advantage (20%): 4
 
-Weighted score (0–100): 37.0
-Label: Disqualified
+Weighted score (0–100): 68
+Label: Medium
+LLM confidence: 0.71
+
+Missing / weak data
+- employees
+- financial
+- founders
+- project
+
+Rationale
+- Luma Arcade is in the video games industry, which aligns with the domain preferences.
+- The company was founded in 2006, indicating some level of stability.
+- Headquartered in Johannesburg, South Africa, which may have cultural and logistical implications.
+- There is no information on the number of employees, financials, or founders.
+- The company has development offices in Johannesburg and a satellite office in Portland, indicating some level of expansion.
+
+Recommended next steps
+- Research the company's current projects and initiatives.
+- Investigate the company's financial health and revenue streams.
+- Look into the company's founders and their backgrounds.
+- Evaluate the company's employee base and culture.
+- Assess the company's global presence and expansion plans.

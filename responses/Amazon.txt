@@ -1,5 +1,6 @@
 Company: Amazon
 Source: wikipedia | URL: https://en.wikipedia.org/wiki/Amazon_(company)
+Scoring method: llm
 
 Extracted Metrics
 - Founded year: 1994
@@ -13,10 +14,32 @@ Scoring Breakdown (1–5)
 - Age/Longevity (10%): 5
 - Employees Strength (10%): 5
 - Financial Stability (10%): 5
-- Founders Profile (5%): 0
-- Domain Relevance (25%): 3
-- Project Quality & Fit (20%): 4
+- Founders Profile (5%): 5
+- Domain Relevance (25%): 5
+- Project Quality & Fit (20%): 2
 - Geographic Advantage (20%): 5
 
-Weighted score (0–100): 81.0
+Weighted score (0–100): 92
 Label: Strong
+LLM confidence: 0.9
+
+Missing / weak data
+- project
+
+Rationale
+- Amazon is a well-established company with a strong presence in the technology industry
+- The company has a large number of employees, indicating a high level of resources and capabilities
+- Amazon's revenue is substantial, suggesting a high level of financial stability
+- The company's founders, including Jeff Bezos, have a strong track record of innovation and leadership
+- Amazon's domain expertise in areas such as AI, ML, and cloud computing is well-established
+- The company's headquarters are located in the United States, which can be beneficial for international collaborations
+- Amazon has a high level of recognition and reputation in the industry
+- The company's confidence score is high due to the reliability of the Wikipedia source
+
+Recommended next steps
+- Research Amazon's current projects and initiatives to better understand their focus areas
+- Reach out to Amazon's recruitment team to inquire about potential student placement opportunities
+- Review Amazon's job listings to identify potential roles that align with the student's skills and interests
+- Network with current or former Amazon employees to gain insights into the company culture and work environment
+- Prepare a tailored resume and cover letter to increase the chances of a successful application
+- Practice common interview questions and prepare to discuss the student's skills and experiences in relation to Amazon's needs

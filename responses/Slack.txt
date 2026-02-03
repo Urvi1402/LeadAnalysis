@@ -1,5 +1,6 @@
 Company: Slack
 Source: wikipedia | URL: https://en.wikipedia.org/wiki/Slack_Technologies
+Scoring method: llm
 
 Extracted Metrics
 - Founded year: 2009
@@ -11,12 +12,32 @@ Extracted Metrics
 
 Scoring Breakdown (1–5)
 - Age/Longevity (10%): 4
-- Employees Strength (10%): 3
-- Financial Stability (10%): 2
-- Founders Profile (5%): 0
-- Domain Relevance (25%): 3
-- Project Quality & Fit (20%): 4
-- Geographic Advantage (20%): 5
+- Employees Strength (10%): 5
+- Financial Stability (10%): 5
+- Founders Profile (5%): 2
+- Domain Relevance (25%): 5
+- Project Quality & Fit (20%): 2
+- Geographic Advantage (20%): 4
 
-Weighted score (0–100): 69.0
-Label: Moderate
+Weighted score (0–100): 73
+Label: Strong
+LLM confidence: 0.7
+
+Missing / weak data
+- founders
+- project
+
+Rationale
+- Slack is a well-established company with a strong presence in the software industry
+- The company has a large number of employees, indicating a high level of resources and capabilities
+- Slack's revenue is substantial, with $903 million in 2020
+- The company operates in a desirable domain, with a focus on software and communication platforms
+- Slack has a global presence, with offices in multiple cities around the world
+- However, there is limited information available on the company's founders and specific projects
+
+Recommended next steps
+- Research the company's founders and their backgrounds
+- Investigate specific projects and initiatives that Slack is currently working on
+- Reach out to Slack's HR department to inquire about potential internship opportunities
+- Review Slack's website and social media to gain a better understanding of the company's culture and values
+- Network with current or former Slack employees to gain insights into the company's work environment

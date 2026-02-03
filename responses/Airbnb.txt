@@ -1,0 +1,43 @@
+Company: Airbnb
+Source: wikipedia | URL: https://en.wikipedia.org/wiki/Airbnb
+Scoring method: llm
+
+Extracted Metrics
+- Founded year: 2008
+- Employees: 7300
+- HQ: San Francisco, California , U.S.
+- Industry: Lodging
+- Revenue: US$ 11.1 billion (2024)
+- Profile confidence: 0.95
+
+Scoring Breakdown (1–5)
+- Age/Longevity (10%): 4
+- Employees Strength (10%): 5
+- Financial Stability (10%): 5
+- Founders Profile (5%): 5
+- Domain Relevance (25%): 2
+- Project Quality & Fit (20%): 2
+- Geographic Advantage (20%): 5
+
+Weighted score (0–100): 64
+Label: Medium
+LLM confidence: 0.7
+
+Missing / weak data
+- project
+
+Rationale
+- Airbnb was founded in 2008, which is 15 years ago, indicating a stable age.
+- The company has 7300 employees, showing a strong workforce.
+- Airbnb's revenue is US$ 11.1 billion, demonstrating financial stability.
+- The company was founded by three individuals, indicating a strong founding team.
+- The company's domain is lodging, which does not match the preferred domains.
+- The company is headquartered in San Francisco, California, which is a desirable location.
+- There is no information about specific projects, which is a missing field.
+
+Recommended next steps
+- Research Airbnb's current projects and initiatives.
+- Evaluate the company's technology stack and innovation.
+- Assess the company's culture and values.
+- Review the company's job openings and career development opportunities.
+- Network with current or former employees to gain insights.
