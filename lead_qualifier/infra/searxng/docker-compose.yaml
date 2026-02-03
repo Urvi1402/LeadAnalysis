@@ -1,0 +1,35 @@
+services:
+  redis:
+    image: valkey/valkey:8-alpine
+    container_name: searxng-redis
+    restart: unless-stopped
+    volumes:
+      - searxng-redis-data:/data
+    networks:
+      - searxng
+
+  searxng:
+    image: searxng/searxng:latest
+    container_name: searxng
+    depends_on:
+      - redis
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8085:8080"
+    environment:
+      - SEARXNG_BASE_URL=http://localhost:8085/
+      - SEARXNG_REDIS_URL=redis://redis:6379/0
+      # important: make sure it listens on container interface, not loopback
+      - SEARXNG_BIND_ADDRESS=0.0.0.0
+      - SEARXNG_PORT=8080
+    volumes:
+      - ./searxng:/etc/searxng:rw
+    networks:
+      - searxng
+
+networks:
+  searxng:
+    driver: bridge
+
+volumes:
+  searxng-redis-data:

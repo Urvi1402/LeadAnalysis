@@ -1,0 +1,24 @@
+use_default_settings: true
+
+server:
+  secret_key: "_YZVnX5gmM1cmI5R5UdZBU0ViqZPMFLBGO9JZwIa1fTQ-X6yt-gVn91x82_J6eE6TvgjryoutxXqbTnFI1xA-g"
+  limiter: false
+  image_proxy: true
+
+redis:
+  url: redis://redis:6379/0
+
+search:
+  formats:
+    - html
+    - json
+
+engines:
+  - name: radio_browser
+    disabled: true
+  - name: ahmia
+    disabled: true
+  - name: torch
+    disabled: true
+
+
